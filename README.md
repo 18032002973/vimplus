@@ -87,7 +87,8 @@ An automatic configuration program for vim
 紧跟vimplus的步伐，尝鲜新特性
 
     ./update.sh
-
+###用vim打开。c文件自带头文件，设置目录
+    /home/gyl/.vim/plugged/prepare-code/snippet
 
 ### Android 64-bit([Termux][87])
 
