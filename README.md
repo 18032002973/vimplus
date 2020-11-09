@@ -87,8 +87,6 @@ An automatic configuration program for vim
 紧跟vimplus的步伐，尝鲜新特性
 
     ./update.sh
-###用vim打开。c文件自带头文件，设置目录
-    /home/gyl/.vim/plugged/prepare-code/snippet
 
 ### Android 64-bit([Termux][87])
 
@@ -117,7 +115,8 @@ An automatic configuration program for vim
 > * [~/.vimrc][82]为vimplus的默认配置，一般不做修改
 > * [~/.vimrc.custom.plugins][83]为用户自定义插件列表，用户增加、卸载插件请修改该文件
 > * [~/.vimrc.custom.config][84]为用户自定义配置文件，一般性配置请放入该文件，可覆盖[~/.vimrc][82]里的配置
-
+...
+> * [~/.vim/plugged/prepare-code/snippet][82]为vimplus的默认配置,###用vim打开.c文件自带头文件
 
 ## 插件列表
 
